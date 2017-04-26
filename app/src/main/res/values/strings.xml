@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TextToSpeech</string>
+    <string name="enter_text">Enter Text</string>
+    <string name="text_to_speech">Text to Speech</string>
+    <string-array name="language">
+        <item>UK</item>
+        <item>Korean</item>
+        <item>Japanese</item>
+    </string-array>
+
+</resources>
